@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/16346/Mux_8/Mux_8.srcs/sources_1/new/Mux_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/16346/Mux_8/Mux_8.srcs/sources_1/new/sbjq.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sbjq
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/16346/Mux_8/Mux_8.srcs/sim_1/new/sim_Mux8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_Mux8
